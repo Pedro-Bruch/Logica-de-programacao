@@ -1,4 +1,4 @@
-#Faça uma Programa que receba, como entrada, uma lista de números positivos ou negativos finalizada com o número zero e forneça,
+#6-Faça uma Programa que receba, como entrada, uma lista de números positivos ou negativos finalizada com o número zero e forneça,
 #como saída, a soma dos números positivos, a soma dos números negativos e a soma das
 #duas somas parciais e mostre os números pares e ímpares ao final.
 num = 1

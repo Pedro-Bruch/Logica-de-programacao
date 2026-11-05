@@ -1,1 +1,0 @@
-Nessa pasta contém 10 exercicios, dentro de cada exercicio tem o enunciado e o código funcionando.

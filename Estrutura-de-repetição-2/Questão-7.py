@@ -1,4 +1,4 @@
-#Foi feita uma pesquisa de audiência de canal de TV em várias casas de uma certa cidade, em um determinado dia. 
+#7-Foi feita uma pesquisa de audiência de canal de TV em várias casas de uma certa cidade, em um determinado dia. 
 # Para cada casa visitada foi fornecido o número do canal (4, 5, 7, 12) e o número de pessoas que estavam assistindo
 #a ele naquela casa. Se a televisão estivesse desligada, nada seria anotado, ou seja, esta casa não entraria na pesquisa. 
 # Faça um Programa que:  leia um número indeterminado de dados, isto é, o número do canal e o 
