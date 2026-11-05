@@ -1,0 +1,5 @@
+dvd = float(input("Digite o valor da dívida: "))
+print("VALOR DA DÍVIDA      :",dvd,", ",dvd+(dvd*0.1),", ",dvd+(dvd*0.15),", ",dvd+(dvd*0.2),", ",dvd+(dvd*0.25))
+print("VALOR DOS JUROS      :",dvd*0,"  , ",dvd*0.1," , ",dvd*0.15," , ",dvd*0.2," , ",dvd*0.25)
+print("QUANTIDADE DE PARCELA:   1   ,   3    ,   6    ,   9   ,   12   ")
+print("VALOR DA PARCELA     :",dvd,", ",int((dvd+(dvd*0.1))/3),", ",int((dvd+(dvd*0.15))/6),", ",int((dvd+(dvd*0.2))/9),", ",int((dvd+(dvd*0.15))/12))
