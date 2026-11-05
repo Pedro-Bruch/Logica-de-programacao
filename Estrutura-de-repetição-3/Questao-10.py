@@ -1,3 +1,8 @@
+##10- Um professor registrou as notas de 35 alunos em uma prova. Faça um algoritmo que:
+#Leia o nome e a nota de cada aluno.
+#Informe a média geral da turma.
+#Conte quantos alunos tiveram nota acima de 7.
+
 nota7 = 0
 tNota = 0
 

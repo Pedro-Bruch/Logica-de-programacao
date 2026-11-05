@@ -1,3 +1,16 @@
+##14-Entrada contínua de temperaturas.
+#Regras:
+#Ignorar valores < -50 ou > 150
+#Encerrar com 999
+#Contar temperaturas:
+#Entre 20 e 80
+#Múltiplas de 5
+#Que não sejam divisíveis por 10
+#Exibir:
+#Quantidade válida
+#Maior temperatura válida
+#Percentual válido sobre total digitado
+
 temp = 0
 tempValida = 0
 maior = 0

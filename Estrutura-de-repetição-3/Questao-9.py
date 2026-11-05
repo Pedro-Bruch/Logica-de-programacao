@@ -1,3 +1,10 @@
+#9- Uma empresa utiliza os códigos 1 para funcionários do setor administrativo e 2 para os funcionários do setor operacional. 
+#Faça um programa que receba o código e o salário de 20 funcionários. Calcule e mostre:
+#A média salarial do setor administrativo.
+#A média salarial do setor operacional.
+#O total de salários pagos pela empresa.
+#A quantidade de funcionários em cada setor.
+
 mAdmin = 0
 cAdmin = 0
 mOper = 0

@@ -1,3 +1,10 @@
+#11- Uma pesquisa de satisfação foi realizada com 40 clientes de uma loja, pedindo que avaliassem o atendimento como:
+#péssimo = 1, regular = 2, bom = 3, excelente = 4. 
+#Faça um programa que leia a avaliação e a idade dos clientes e exiba:
+#A média de idade dos clientes que avaliaram como "excelente".
+#O total de clientes que avaliaram como "péssimo".
+#A porcentagem de clientes que avaliaram como "bom" em relação ao total.
+
 nota4 = 0
 c4 = 0
 c1 = 0

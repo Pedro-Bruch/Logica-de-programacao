@@ -1,3 +1,7 @@
+#12- Uma sequência de 50 números será informada pelo usuário. Escreva um programa que:
+#Conte quantos desses números são múltiplos de 3.
+#Exiba a soma de todos os números pare
+
 m3 = 0
 somaPar = 0
 

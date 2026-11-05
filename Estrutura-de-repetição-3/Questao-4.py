@@ -1,3 +1,10 @@
+##4- Uma loja utiliza o código 1 para transação à vista e 2 para transação a prazo.
+#Faça um programa que receba o código e o valor de 15 transações. Calcule e mostre: 
+#O valor total das compras à vista,
+#O valor total as compras a prazo,
+#O valor total das compras efetuadas,
+#O valor da primeira prestação das compras a prazo, sabendo se que essas serão pagas em três vezes.
+
 cAVista = 0
 cAPrazo = 0
 pComAPrazo = 0
