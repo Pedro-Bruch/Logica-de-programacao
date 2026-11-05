@@ -1,3 +1,21 @@
+#1- Balanceamento Dinâmico de Linha de Produção
+#Uma linha tem 5 estações.
+#Cada estação:
+#Recebe peças
+#Processa no máximo X por ciclo
+#Pode quebrar se operar acima de 90% da capacidade por 5 ciclos seguidos
+#Regras:
+#Peças não processadas acumulam
+#Se uma estação quebra:
+#Toda a linha para
+#Produção continua até:
+#Meta diária atingida
+#Ou falha estrutural
+#Exibir:
+#Produção total
+#Estação que falhou (se houver)
+#Ciclos executados
+
 metaDiaria = int(input("Digite a meta diária da equipe: "))
 cpc = int(input("Digite o processamento máximo por ciclo (X): "))
 
