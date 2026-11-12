@@ -1,0 +1,28 @@
+1. Feita uma pesquisa em 12 cidades para coletar dados sobre acidentes de
+trânsito. Foram obtidos os seguintes dados:
+- código da cidade
+- número de veículos de passeio
+- número de acidentes de trânsito com vítimas
+Código Cidade
+11 Jaraguá do Sul
+12 Joinville
+13 Blumenau
+14 Florianópolis
+21 Porto Alegre
+22 Bento Gonçalves
+23 Garibaldi
+24 Caxias do Sul
+31 Curitiba
+32 Foz do Iguaçu
+33 Toledo
+34 Cascavel
+Código Estado
+1 SC
+2 RS
+3 PR
+Deseja-se saber:
+a) o maior e o menor índice de acidentes de trânsito e a que cidades/estado
+pertencem
+b) qual a média de veículos nas cidades brasileiras (total / por estado)
+c) qual a média de acidentes com vítimas nas cidades de Santa Catarina e o
+total por estado.
