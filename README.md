@@ -1,12 +1,4 @@
-# Logica-de-programacao
-Este repositorio contém atividades da UC de lógica de programação.
+#Lógica de Programação
 
-Aqui contém 4 pastas, sendo:
-
-Estrutura de repetição 1, 
-Estrutura de repetição 2,
-Estrutura de repetição 3,
-Estrutura de repetição 4.
-
-Cada pasta contém exercícios propostos pelo professor. 
-Os exercícios estão númerados e com o enunciado dentro de cada arquivo.
+Neste repositório contém todas as atividades da UC lógica de programação.
+Contém Fluxograma, Portugol, Python e Teste de Mesa.
