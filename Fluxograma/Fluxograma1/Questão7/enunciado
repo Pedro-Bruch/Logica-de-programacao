@@ -1,0 +1,3 @@
+7- Crie um fluxograma que modele um programa de conversão de moedas. O usuário deve fornecer
+um valor em real e selecionar para qual moeda deseja converter (para dólar, euro ou libra). O
+programa deve fazer a conversão usando taxas de câmbio fornecidas e exibir o valor convertido.
